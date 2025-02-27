@@ -1,5 +1,3 @@
-Here's a README for your face detection project using OpenCV's DNN module:
-
 ---
 
 # Face Detection with OpenCV DNN Module
